@@ -1,0 +1,20 @@
+# ninja log v5
+6	656	1714451713757402798	CMakeFiles/ponggame.dir/apps/bricksmanish.cpp.o	6e4d59e6bcc1d417
+6	738	1714434055768092243	CMakeFiles/ponggame.dir/lib/Text.cpp.o	66b6c443ab4e1e04
+690	1030	1714434056059903761	CMakeFiles/ponggame.dir/lib/GLXtras.cpp.o	47a26975a5c7eccc
+0	42	1714451935651448549	build.ninja	40e818e303689cbd
+5	733	1714434055761507167	CMakeFiles/ponggame.dir/lib/Draw.cpp.o	4373718c2e5bfcef
+14	502	1713587120225415970	CMakeFiles/ponggame.dir/apps/hello.cpp.o	dedf4a28891cc8b0
+689	1391	1714434056415980919	CMakeFiles/ponggame.dir/lib/IO.cpp.o	262e006e76b0b444
+0	552	1713831991505359785	CMakeFiles/ponggame.dir/apps/pong.cpp.o	6f48de0cd24e2c2d
+234	316	1714436433083276000	libglad.a	4de1519b6a01a2f7
+658	898	1714451714000877172	ponggame	dd83742b9481ba63
+0	234	1714436432999515553	CMakeFiles/glad.dir/lib/glad.c.o	818e4044f57c052c
+4	549	1714440742198545442	CMakeFiles/ponggame.dir/apps/bricks.cpp.o	bf386582af0f6d51
+4	689	1714434055717595964	CMakeFiles/ponggame.dir/lib/Letters.cpp.o	b571e0affdcc6254
+16	311	1714439573824562813	CMakeFiles/ponggame.dir/lib/glad.c.o	238841fbc9c1afff
+5	690	1714434055718721213	CMakeFiles/ponggame.dir/lib/Quaternion.cpp.o	a88e3a7c3963c12e
+5	711	1714434055739254982	CMakeFiles/ponggame.dir/lib/Camera.cpp.o	e1d493ca72ac862b
+5	855	1714434055884866784	CMakeFiles/ponggame.dir/lib/Mesh.cpp.o	624e324813156a23
+0	48	1714451935651448549	build.ninja	40e818e303689cbd
+17	286	1714451935932669969	ponggame	e6e710ccd968caca

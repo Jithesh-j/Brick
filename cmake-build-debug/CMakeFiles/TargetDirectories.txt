@@ -1,0 +1,3 @@
+/Users/jitheshjalapothu/Desktop/ponggame/cmake-build-debug/CMakeFiles/ponggame.dir
+/Users/jitheshjalapothu/Desktop/ponggame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jitheshjalapothu/Desktop/ponggame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
